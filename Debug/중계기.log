@@ -1,0 +1,8 @@
+﻿  template.c
+C:\Users\LeeJaeyeon\Desktop\Prj1_통신중계기 (1)\template.c(40,17): warning C4473: 'fscanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\LeeJaeyeon\Desktop\Prj1_통신중계기 (1)\template.c(40,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\LeeJaeyeon\Desktop\Prj1_통신중계기 (1)\template.c(40,17): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\LeeJaeyeon\Desktop\Prj1_통신중계기 (1)\template.c(40,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\LeeJaeyeon\Desktop\Prj1_통신중계기 (1)\template.c(16,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+  중계기.vcxproj -> C:\Users\LeeJaeyeon\Desktop\중계기\Debug\중계기.exe
